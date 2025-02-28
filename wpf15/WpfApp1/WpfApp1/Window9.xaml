@@ -1,0 +1,42 @@
+﻿<Window x:Class="WpfApp1.Window9"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:WpfApp1"
+        xmlns:a="clr-namespace:System.Windows.Annotations;assembly=PresentationFramework"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="300" Width="400">
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="30" />
+            <RowDefinition Height="*" />
+        </Grid.RowDefinitions>
+        <ToolBar>
+            <Button Command="a:AnnotationService.CreateTextStickyNoteCommand" FontSize="10">
+                Комментировать
+            </Button>
+            <Button Command="a:AnnotationService.CreateHighlightCommand" FontSize="10"
+                    CommandParameter="{x:Static Brushes.Yellow}">
+                Выделить
+            </Button>
+            <Button Command="a:AnnotationService.ClearHighlightsCommand" FontSize="10">
+                Убрать выделение
+            </Button>
+            <Button Command="a:AnnotationService.DeleteStickyNotesCommand" FontSize="10">
+                Убрать комментарий
+            </Button>
+        </ToolBar>
+        <FlowDocumentScrollViewer x:Name="docViewer" Grid.Row="1">
+            <FlowDocument FontSize="12">
+                <Paragraph TextIndent="20">
+                    В 1808 году император Александр ездил в Эрфурт для новой встречи с Наполеоном, 
+                    и в высшем свете много говорили о важности этого события. 
+                    В 1809 году близость двух «властелинов мира», как называли Александра и Наполеона, 
+                    дошла до того, что когда Наполеон объявил войну Австрии, русский корпус выступил за границу, 
+                    чтобы сражаться на стороне бывшего противника против бывшего союзника, австрийского императора.
+                </Paragraph>
+            </FlowDocument>
+        </FlowDocumentScrollViewer>
+    </Grid>
+</Window>

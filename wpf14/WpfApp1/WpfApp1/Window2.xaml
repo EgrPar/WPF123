@@ -1,0 +1,32 @@
+﻿<Window x:Class="WpfApp1.Window2"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:WpfApp1"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="250" Width="300">
+    <Window.Resources>
+        <DataTemplate x:Key="listTemplate">
+            <StackPanel Margin="5">
+                <Image Width="100" Height="75" Source="{Binding Path=ImagePath}" />
+                <TextBlock FontSize="16" Text="{Binding Path=Title}" HorizontalAlignment="Center" />
+                <TextBlock FontSize="16" Text="{Binding Path=Company}" HorizontalAlignment="Center" />
+            </StackPanel>
+        </DataTemplate>
+        <ItemsPanelTemplate x:Key="listPanelTemplate">
+            <WrapPanel />
+        </ItemsPanelTemplate>
+    </Window.Resources>
+    <Grid>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="74*"/>
+            <ColumnDefinition/>
+        </Grid.ColumnDefinitions>
+        <ListBox x:Name="phonesList"
+                 ItemTemplate="{StaticResource listTemplate}"
+                 ItemsPanel="{StaticResource listPanelTemplate}"
+                 SelectionChanged="phonesList_SelectionChanged"
+                 ScrollViewer.HorizontalScrollBarVisibility="Disabled" Grid.ColumnSpan="2" />
+    </Grid>
+</Window>

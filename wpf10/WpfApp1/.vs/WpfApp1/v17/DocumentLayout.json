@@ -1,0 +1,218 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\User\\Desktop\\wpf1\\WpfApp1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{80470222-F844-4B71-A42B-DA6E308FEA39}|WpfApp1\\WpfApp1.csproj|c:\\users\\user\\desktop\\wpf1\\wpfapp1\\wpfapp1\\window5.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{80470222-F844-4B71-A42B-DA6E308FEA39}|WpfApp1\\WpfApp1.csproj|solutionrelative:wpfapp1\\window5.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{80470222-F844-4B71-A42B-DA6E308FEA39}|WpfApp1\\WpfApp1.csproj|c:\\users\\user\\desktop\\wpf1\\wpfapp1\\wpfapp1\\window5.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{80470222-F844-4B71-A42B-DA6E308FEA39}|WpfApp1\\WpfApp1.csproj|solutionrelative:wpfapp1\\window5.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{80470222-F844-4B71-A42B-DA6E308FEA39}|WpfApp1\\WpfApp1.csproj|c:\\users\\user\\desktop\\wpf1\\wpfapp1\\wpfapp1\\window4.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{80470222-F844-4B71-A42B-DA6E308FEA39}|WpfApp1\\WpfApp1.csproj|solutionrelative:wpfapp1\\window4.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{80470222-F844-4B71-A42B-DA6E308FEA39}|WpfApp1\\WpfApp1.csproj|c:\\users\\user\\desktop\\wpf1\\wpfapp1\\wpfapp1\\window4.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{80470222-F844-4B71-A42B-DA6E308FEA39}|WpfApp1\\WpfApp1.csproj|solutionrelative:wpfapp1\\window4.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{80470222-F844-4B71-A42B-DA6E308FEA39}|WpfApp1\\WpfApp1.csproj|c:\\users\\user\\desktop\\wpf1\\wpfapp1\\wpfapp1\\window3.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{80470222-F844-4B71-A42B-DA6E308FEA39}|WpfApp1\\WpfApp1.csproj|solutionrelative:wpfapp1\\window3.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{80470222-F844-4B71-A42B-DA6E308FEA39}|WpfApp1\\WpfApp1.csproj|c:\\users\\user\\desktop\\wpf1\\wpfapp1\\wpfapp1\\window3.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{80470222-F844-4B71-A42B-DA6E308FEA39}|WpfApp1\\WpfApp1.csproj|solutionrelative:wpfapp1\\window3.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{80470222-F844-4B71-A42B-DA6E308FEA39}|WpfApp1\\WpfApp1.csproj|c:\\users\\user\\desktop\\wpf1\\wpfapp1\\wpfapp1\\window2.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{80470222-F844-4B71-A42B-DA6E308FEA39}|WpfApp1\\WpfApp1.csproj|solutionrelative:wpfapp1\\window2.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{80470222-F844-4B71-A42B-DA6E308FEA39}|WpfApp1\\WpfApp1.csproj|c:\\users\\user\\desktop\\wpf1\\wpfapp1\\wpfapp1\\window2.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{80470222-F844-4B71-A42B-DA6E308FEA39}|WpfApp1\\WpfApp1.csproj|solutionrelative:wpfapp1\\window2.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{80470222-F844-4B71-A42B-DA6E308FEA39}|WpfApp1\\WpfApp1.csproj|C:\\Users\\User\\Desktop\\wpf1\\WpfApp1\\wpfapp1\\1mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{80470222-F844-4B71-A42B-DA6E308FEA39}|WpfApp1\\WpfApp1.csproj|solutionrelative:wpfapp1\\1mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{80470222-F844-4B71-A42B-DA6E308FEA39}|WpfApp1\\WpfApp1.csproj|C:\\Users\\User\\Desktop\\wpf1\\WpfApp1\\wpfapp1\\1mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{80470222-F844-4B71-A42B-DA6E308FEA39}|WpfApp1\\WpfApp1.csproj|solutionrelative:wpfapp1\\1mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\User\\Desktop\\wpf1\\WpfApp1\\WpfApp1\\MainWindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:WpfApp1\\MainWindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{80470222-F844-4B71-A42B-DA6E308FEA39}|WpfApp1\\WpfApp1.csproj|c:\\users\\user\\desktop\\wpf1\\wpfapp1\\wpfapp1\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{80470222-F844-4B71-A42B-DA6E308FEA39}|WpfApp1\\WpfApp1.csproj|solutionrelative:wpfapp1\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 11,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\wpf1\\WpfApp1\\WpfApp1\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "WpfApp1\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\User\\Desktop\\wpf1\\WpfApp1\\WpfApp1\\MainWindow.xaml",
+              "RelativeToolTip": "WpfApp1\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-02-27T14:53:02.282Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\wpf1\\WpfApp1\\WpfApp1\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "WpfApp1\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\wpf1\\WpfApp1\\WpfApp1\\MainWindow.xaml.cs",
+              "RelativeToolTip": "WpfApp1\\MainWindow.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-27T14:25:12.38Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "1MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\wpf1\\WpfApp1\\WpfApp1\\1MainWindow.xaml",
+              "RelativeDocumentMoniker": "WpfApp1\\1MainWindow.xaml",
+              "ToolTip": "C:\\Users\\User\\Desktop\\wpf1\\WpfApp1\\WpfApp1\\1MainWindow.xaml",
+              "RelativeToolTip": "WpfApp1\\1MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-02-24T22:29:08.829Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "1MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\wpf1\\WpfApp1\\WpfApp1\\1MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "WpfApp1\\1MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\wpf1\\WpfApp1\\WpfApp1\\1MainWindow.xaml.cs",
+              "RelativeToolTip": "WpfApp1\\1MainWindow.xaml.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAABgAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-24T22:29:08.278Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Window2.xaml",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\wpf1\\WpfApp1\\WpfApp1\\Window2.xaml",
+              "RelativeDocumentMoniker": "WpfApp1\\Window2.xaml",
+              "ToolTip": "C:\\Users\\User\\Desktop\\wpf1\\WpfApp1\\WpfApp1\\Window2.xaml",
+              "RelativeToolTip": "WpfApp1\\Window2.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-02-27T16:54:27.613Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Window2.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\wpf1\\WpfApp1\\WpfApp1\\Window2.xaml.cs",
+              "RelativeDocumentMoniker": "WpfApp1\\Window2.xaml.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\wpf1\\WpfApp1\\WpfApp1\\Window2.xaml.cs",
+              "RelativeToolTip": "WpfApp1\\Window2.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-27T17:02:08.262Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Window3.xaml",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\wpf1\\WpfApp1\\WpfApp1\\Window3.xaml",
+              "RelativeDocumentMoniker": "WpfApp1\\Window3.xaml",
+              "ToolTip": "C:\\Users\\User\\Desktop\\wpf1\\WpfApp1\\WpfApp1\\Window3.xaml",
+              "RelativeToolTip": "WpfApp1\\Window3.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-02-27T17:05:51.951Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Window3.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\wpf1\\WpfApp1\\WpfApp1\\Window3.xaml.cs",
+              "RelativeDocumentMoniker": "WpfApp1\\Window3.xaml.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\wpf1\\WpfApp1\\WpfApp1\\Window3.xaml.cs",
+              "RelativeToolTip": "WpfApp1\\Window3.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-27T17:09:09.497Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Window4.xaml",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\wpf1\\WpfApp1\\WpfApp1\\Window4.xaml",
+              "RelativeDocumentMoniker": "WpfApp1\\Window4.xaml",
+              "ToolTip": "C:\\Users\\User\\Desktop\\wpf1\\WpfApp1\\WpfApp1\\Window4.xaml",
+              "RelativeToolTip": "WpfApp1\\Window4.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-02-27T17:09:56.915Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Window4.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\wpf1\\WpfApp1\\WpfApp1\\Window4.xaml.cs",
+              "RelativeDocumentMoniker": "WpfApp1\\Window4.xaml.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\wpf1\\WpfApp1\\WpfApp1\\Window4.xaml.cs",
+              "RelativeToolTip": "WpfApp1\\Window4.xaml.cs",
+              "ViewState": "AgIAAC4AAAAAAAAAAAAkwDkAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-27T17:10:44.768Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Window5.xaml",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\wpf1\\WpfApp1\\WpfApp1\\Window5.xaml",
+              "RelativeDocumentMoniker": "WpfApp1\\Window5.xaml",
+              "ToolTip": "C:\\Users\\User\\Desktop\\wpf1\\WpfApp1\\WpfApp1\\Window5.xaml",
+              "RelativeToolTip": "WpfApp1\\Window5.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-02-27T17:12:47.507Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Window5.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\wpf1\\WpfApp1\\WpfApp1\\Window5.xaml.cs",
+              "RelativeDocumentMoniker": "WpfApp1\\Window5.xaml.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\wpf1\\WpfApp1\\WpfApp1\\Window5.xaml.cs",
+              "RelativeToolTip": "WpfApp1\\Window5.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-27T17:13:34.817Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
